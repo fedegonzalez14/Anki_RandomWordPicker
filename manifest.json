@@ -1,0 +1,7 @@
+{
+  "name": "Random Words Picker",
+  "mod": 1,
+  "supported": ["2.1.66"],
+  "author": "You",
+  "description": "Pick N random front-side words from a chosen deck."
+}
